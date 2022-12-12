@@ -25,24 +25,24 @@ public class Company_info {
 				en1.subsidiary();
 				break;
 			case "Hyundai_motors":
-				en1.history();
-				en1.scale();
-				en1.subsidiary();
+				en2.history();
+				en2.scale();
+				en2.subsidiary();
 				break;
 			case "Lotte":
-				en1.history();
-				en1.scale();
-				en1.subsidiary();
+				en3.history();
+				en3.scale();
+				en3.subsidiary();
 				break;
 			case "Posco":
-				en1.history();
-				en1.scale();
-				en1.subsidiary();
+				en4.history();
+				en4.scale();
+				en4.subsidiary();
 				break;
 			case "SK":
-				en1.history();
-				en1.scale();
-				en1.subsidiary();
+				en5.history();
+				en5.scale();
+				en5.subsidiary();
 				break;
 		}
 		
